@@ -4,6 +4,7 @@
 #include<stdio.h>
 int main (){
     int n,c;
+    // Added a prompt for user input
     printf("ENTER NUM OF odd LINES :");
     scanf("%d",&n);
     
