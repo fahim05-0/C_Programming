@@ -15,9 +15,9 @@
     }
 
     else if (a>b && c>a)
-        printf("row 2 has largest sum %d",b);
+        printf("row 3 has largest sum %d",c);
     
     else 
-        printf("row 3 has largest sum %d ",c);
+        printf("row 2 has largest sum %d ",b);
     return 0;
  }

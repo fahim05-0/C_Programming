@@ -7,7 +7,7 @@ int main(){
     printf("Enter NUm of Courses :");
     scanf("%d",&c);
 
-    int arr[r][c];
+    int arr[r][c];  
     for (int i=0;i<r;i++){ 
         printf("Enter marks of Roll %d  for %d courses :\n",i,c);
         for (int j=0;j<c;j++)

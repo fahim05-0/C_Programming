@@ -9,9 +9,9 @@
 int main(){
 
     int r,c,a;
-    int s1
+    int s1;
 
-    printf("Enter NUm of Rows :");
+    printf("Enter Num of Rows :");
     scanf("%d",&r);
     printf("Enter NUm of Columns :");
     scanf("%d",&c);

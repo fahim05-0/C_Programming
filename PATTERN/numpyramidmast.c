@@ -5,7 +5,7 @@
 #include<stdio.h>
 int main(){
     int n;
-    printf("ENTER NUM OF LINES :");
+    printf("ENTER NUM OF LINES :");  
     scanf("%d",&n);
     for (int i=1;i<=n;i++){
         for(int s=1;s<=n-i;s++){
